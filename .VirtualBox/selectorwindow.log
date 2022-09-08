@@ -1,0 +1,28 @@
+00:00:01.386771 VirtualBox GUI VM Selector Window 6.1.36 r152435 win.amd64 (Jul 19 2022 21:51:27) release log
+00:00:01.386773 Log opened 2022-08-02T23:54:40.936454300Z
+00:00:01.386774 Build Type: release
+00:00:01.386777 OS Product: Windows 10
+00:00:01.386778 OS Release: 10.0.19044
+00:00:01.386779 OS Service Pack: 
+00:00:01.401102 DMI Product Name: To be filled by O.E.M.
+00:00:01.405393 DMI Product Version: To be filled by O.E.M.
+00:00:01.405406 Firmware type: UEFI
+00:00:01.405761 Secure Boot: VERR_PRIVILEGE_NOT_HELD
+00:00:01.405781 Host RAM: 8156MB (7.9GB) total, 6254MB (6.1GB) available
+00:00:01.405786 Executable: C:\Program Files\Oracle\VirtualBox\VirtualBox.exe
+00:00:01.405787 Process ID: 8124
+00:00:01.405787 Package type: WINDOWS_64BITS_GENERIC
+00:00:01.405925 Qt version: 5.6.2
+00:00:01.696771 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:05.776501 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:27.230799 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:27.829294 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:43.002662 ERROR [COM]: aRC=E_UNEXPECTED (0x8000ffff) aIID={c0447716-ff5a-4795-b57a-ecd5fffa18a4} aComponent={SessionWrap} aText={The session is not locked (session state: Unlocked)}, preserve=false aResultDetail=0
+00:03:24.953964 GUI: UIMediumEnumerator: Medium with key={{859cb97d-1348-4c47-a610-e9581a83148a}} created
+00:03:25.032414 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:03:40.055089 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:23:10.915255 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:15.519505 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:50.640794 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:51.303663 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:27:51.340681 GUI: UIMediumEnumerator: Medium-enumeration finished!
